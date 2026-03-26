@@ -32,7 +32,7 @@ This report focuses on understanding customer profiles and behavior.
 <h2>📸 Dashboard Preview</h2>
 
 <h3>Transaction Analysis</h3>
-<p> ![image alt](https://github.com/Harshkanoje7/Credit-Card-And-Customer-Report/blob/4137e542be12c7aa2223941e362a742311c82dde/Introduction%20Page.jpg)</p>
+ ![image alt](https://github.com/Harshkanoje7/Credit-Card-And-Customer-Report/blob/4137e542be12c7aa2223941e362a742311c82dde/Introduction%20Page.jpg)
 
 <h3>Customer Segmentation</h3>
 <p>(Add your screenshot here)</p>
