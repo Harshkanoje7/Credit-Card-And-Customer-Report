@@ -35,9 +35,17 @@ This report focuses on understanding customer profiles and behavior.
 
  ![image alt](https://github.com/Harshkanoje7/Credit-Card-And-Customer-Report/blob/4137e542be12c7aa2223941e362a742311c82dde/Introduction%20Page.jpg)
 
-<h3>Customer Segmentation</h3>
-<p>(Add your screenshot here)</p>
+<h3>Credit Card Transaction Report</h3>
 
+![image alt](https://github.com/Harshkanoje7/Credit-Card-And-Customer-Report/blob/4137e542be12c7aa2223941e362a742311c82dde/Introduction%20Page.jpg)
+
+<h3>Credit Card Customer Report</h3>
+
+![image alt](https://github.com/Harshkanoje7/Credit-Card-And-Customer-Report/blob/4137e542be12c7aa2223941e362a742311c82dde/Introduction%20Page.jpg)
+
+<h3>Insights</h3>
+
+![image alt](https://github.com/Harshkanoje7/Credit-Card-And-Customer-Report/blob/4137e542be12c7aa2223941e362a742311c82dde/Introduction%20Page.jpg)
 
 
 <h2>🚀 Usage</h2>
