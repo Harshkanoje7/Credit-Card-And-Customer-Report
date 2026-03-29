@@ -47,8 +47,8 @@ This report focuses on understanding customer profiles and behavior.
 <h2>🚀 Usage</h2>
 
 <ul>
-  <li>Understand customer spending behavior</li>
-  <li>Identify high-value and low-engagement customers</li>
-  <li>Detect early signs of customer churn</li>
-  <li>Support data-driven decision making for marketing and retention strategies</li>
+  <li>Understand customer spending behavior.</li>
+  <li>Identify high-value and low-engagement customers.</li>
+  <li>Detect early signs of customer churn.</li>
+  <li>Support data-driven decision making for marketing and retention strategies.</li>
 </ul>
